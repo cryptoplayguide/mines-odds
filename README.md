@@ -1,5 +1,7 @@
 # mines-odds
 
+> **Try it in your browser:** [https://cryptoplay.guide/tools/mines-odds-calculator/](https://cryptoplay.guide/tools/mines-odds-calculator/) — free, runs client-side, no sign-up. 18+, for education only.
+
 Small, dependency-free ESM package for exact Mines probabilities and payout
 multipliers. Uses BigInt combinatorics in Node.js 18+ and modern browsers.
 All library functions are pure; there is no network access or game simulation.
